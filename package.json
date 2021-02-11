@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-typescript",
+  "version": "1.0.0",
+  "description": "Web Application written in Node.js, TypeScript, React, and PostgreSQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmeerMoukadam/nodejs-typescript.git"
+  },
+  "author": "Ameer_Moukadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmeerMoukadam/nodejs-typescript/issues"
+  },
+  "homepage": "https://github.com/AmeerMoukadam/nodejs-typescript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
