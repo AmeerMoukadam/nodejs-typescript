@@ -1,2 +1,2 @@
 # nodejs-typescript
- Web Application written in Node.js, TypeScript, React, and PostgreSQL
+Back end written in node and typescript.
